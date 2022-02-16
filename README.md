@@ -1,1 +1,1 @@
-# -izuchaem_python_metiz_part2
+# izuchaem_python_metiz_part2
